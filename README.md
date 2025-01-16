@@ -7,4 +7,4 @@ i'm learning javascript
 ### some fun facts...
 - i'm filipino
 - 13 years old
-- birthday is on may 18th, 2010
+- birthday is on may 18th, 2011
