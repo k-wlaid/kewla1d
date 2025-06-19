@@ -1,10 +1,18 @@
-# hiya, i'm kewlaid!
-### *the kewlest aid of them all*
+# kewlaid
+class of 29' 🇵🇭  •  modern baseball 🎧
 
-i'm currently interested in gaming, web development, graphic designing
-i'm learning javascript
+### interests
+• ui/graphic design
+• music listening/transcription
+• traditional/digital art
+• web design
 
-### some fun facts...
-- i'm filipino
-- 13 years old
-- birthday is on may 18th, 2011
+### socials
+*i rarely post on any of these besides airbuds but follow anyway i may repost stuff*
+• **instagram** > madeby.k_wlaid
+• **discord** & **twitter** > k_wlaid
+• **airbuds** > k.wlaid
+
+
+
+this'll have to do for now until i feel like finishing my website
