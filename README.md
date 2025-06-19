@@ -2,15 +2,15 @@
 class of 29' 🇵🇭  •  modern baseball 🎧
 
 ### interests
-• ui/graphic design
-• music listening/transcription
-• traditional/digital art
+• ui/graphic design<br>
+• music listening/transcription<br>
+• traditional/digital art<br>
 • web design
 
 ### socials
-*i rarely post on any of these besides airbuds but follow anyway i may repost stuff*
-• **instagram** > madeby.k_wlaid
-• **discord** & **twitter** > k_wlaid
+*i rarely post on any of these besides airbuds but follow anyway i may repost stuff* <br>
+• **instagram** > madeby.k_wlaid<br>
+• **discord** & **twitter** > k_wlaid<br>
 • **airbuds** > k.wlaid
 
 
